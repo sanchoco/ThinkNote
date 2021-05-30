@@ -46,6 +46,9 @@
 - Load Balancer: Nginx
 - ETC: AWS S3
 
+## 🔭 주요 라이브러리
+socket.io, passport, mongoose, jsonwebtoken, multer, sharp, sdk, sanitize-html, dotenv
+
 ## ✨ 주요 기능
 #### 1. 소셜 로그인
 - 구글, 네이버, 카카오 계정을 활용한 소셜 로그인 방식 적용
